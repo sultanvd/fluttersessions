@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "691843139353",
+    "firebase_url": "https://react-native-pra-1518717815515.firebaseio.com",
+    "project_id": "react-native-pra-1518717815515",
+    "storage_bucket": "react-native-pra-1518717815515.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691843139353:android:885c164d789dbb217ee788",
+        "android_client_info": {
+          "package_name": "com.example.assignment8firebasedb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "691843139353-fl5qgnvmm1e0lkclu2q6sesqkkf6b1ar.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGlVfpVgV2ogCOWC9n2e-xKdkVMW72PYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "691843139353-fl5qgnvmm1e0lkclu2q6sesqkkf6b1ar.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
